@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.triangle-up {
+
+    margin: 50px auto;
+
+    width: 0px;
+    height: 0px;
+    border: 40px solid red;
+    border-bottom-color: lime;
+}
+
+.triangle-down {
+
+    margin: 50px auto;
+
+    width: 0px;
+    height: 0px;
+    border: 40px solid red;
+    border-top-color: lime;
+}
+
+.triangle-left {
+
+    margin: 50px auto;
+
+    width: 0px;
+    height: 0px;
+    border: 40px solid red;
+    border-right-color: lime;
+}
+
+
+.triangle-right {
+
+    margin: 50px auto;
+
+    width: 0px;
+    height: 0px;
+    border: 40px solid red;
+    border-left-color: lime;
+}
